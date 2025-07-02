@@ -1,0 +1,52 @@
+Hostname: Kishorelins-MacBook-Air.local
+Uptime: 23:43  up 6 days,  4:42, 2 users, load averages: 1.44 1.81 2.10
+Date: Mon 30 Jun 2025 23:43:40 EDT
+
+CPU Load Average:
+{ 1.44 1.81 2.10 }
+
+Memory Usage (Pages):
+Mach Virtual Memory Statistics: (page size of 16384 bytes)
+Pages free:                                3966.
+Pages active:                            275141.
+Pages inactive:                          274279.
+Pages speculative:                          141.
+Pages throttled:                              0.
+Pages wired down:                        123343.
+Pages purgeable:                          52543.
+"Translation faults":                 324360408.
+Pages copy-on-write:                   13108931.
+Pages zero filled:                    174453519.
+Pages reactivated:                     44950748.
+Pages purged:                          31428717.
+File-backed pages:                       146513.
+Anonymous pages:                         403048.
+Pages stored in compressor:             1164561.
+Pages occupied by compressor:            334638.
+Decompressions:                        58431303.
+Compressions:                          72534216.
+Pageins:                                7044867.
+Pageouts:                                257569.
+Swapins:                                  30173.
+Swapouts:                                177412.
+
+Disk Usage:
+Filesystem                                              Size    Used   Avail Capacity iused ifree %iused  Mounted on
+/dev/disk3s1s1                                         460Gi    10Gi   309Gi     4%    426k  3.2G    0%   /
+devfs                                                  200Ki   200Ki     0Bi   100%     692     0  100%   /dev
+/dev/disk3s6                                           460Gi   3.0Gi   309Gi     1%       3  3.2G    0%   /System/Volumes/VM
+/dev/disk3s2                                           460Gi   6.7Gi   309Gi     3%    1.2k  3.2G    0%   /System/Volumes/Preboot
+/dev/disk3s4                                           460Gi   2.9Mi   309Gi     1%      54  3.2G    0%   /System/Volumes/Update
+/dev/disk1s2                                           500Mi   6.0Mi   483Mi     2%       1  4.9M    0%   /System/Volumes/xarts
+/dev/disk1s1                                           500Mi   5.4Mi   483Mi     2%      33  4.9M    0%   /System/Volumes/iSCPreboot
+/dev/disk1s3                                           500Mi   1.0Mi   483Mi     1%      93  4.9M    0%   /System/Volumes/Hardware
+/dev/disk3s5                                           460Gi   130Gi   309Gi    30%    1.5M  3.2G    0%   /System/Volumes/Data
+map auto_home                                            0Bi     0Bi     0Bi   100%       0     0     -   /System/Volumes/Data/home
+/Users/kishorelinam/Downloads/Visual Studio Code.app   460Gi   140Gi   302Gi    32%    1.5M  3.2G    0%   /private/var/folders/sj/4vyh_zcx1llg5053w3l1gnjr0000gn/T/AppTranslocation/231F4287-F3DC-44B8-A2FD-16BC960A3D41
+
+Logged-in Users:
+kishorelinam     console      Jun 24 19:04 
+kishorelinam     ttys003      Jun 30 23:13 
+
+IP Address:
+192.168.2.215
